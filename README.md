@@ -1,10 +1,10 @@
 <div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
   <img style="object-fit: cover; width: 100%; height: 100%;" src="Banner.png" alt="Banner" />
 </div>
-I'm Navdeep,
-A 12 year old prgrammer from India, that loves to code and make open source projects!
 
-Check out my website at https://navdeep.online and mail me at wsp@navdeep.online
+## I'm Navdeep,
+### A 12 year old prgrammer from India, that loves to code and make open source projects!
+### Check out my website at https://navdeep.online and mail me at wsp@navdeep.online
 
 ## Stats
 
