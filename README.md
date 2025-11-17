@@ -1,4 +1,6 @@
-[Banner V1](/banner.png)
+<div style="width: 100%; height: 300px; overflow: hidden; position: relative;">
+  <img style="object-fit: cover; width: 100%; height: 100%;" src="Banner.png" alt="Banner" />
+</div>
 
 <h2>Hello, I'm Navdeep</h2>
 <div>
