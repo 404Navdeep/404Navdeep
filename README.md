@@ -18,10 +18,15 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,aws)](https://github.com/Navdeep-Codes)
 
 </div>
-<h2>Stats</h2>
+#### Stats
+
+##### GitHub Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Navdeep-Codes&show_icons=true&theme=radical)](https://github.com/transcental)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navdeep-Codes&layout=compact&theme=radical)](https://github.com/transcental)
 <div>
   <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navdeep-Codes&theme=tokyonight'>
   <br>
+##### Hackatime Stats
    <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
 </div>
 <br>
