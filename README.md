@@ -1,4 +1,4 @@
-![Banner V1](/banner.png)
+[Banner V1](/banner.png)
 
 <h2>Hello, I'm Navdeep</h2>
 <div>
