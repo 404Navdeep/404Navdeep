@@ -17,14 +17,14 @@
 ## Skills
 <div>
 
-**I am great with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://github.com/Navdeep-Codes)
+**My Current Skills** <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs)](https://github.com/Navdeep-Codes)
 
 **I am learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java,nextjs,react,)](https://github.com/Navdeep-Codes)
+[![My Skills](https://skillicons.dev/icons?i=python,java,)](https://github.com/Navdeep-Codes)
 
-**I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/Navdeep-Codes)
+**Stuff I use** <br>
+[![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/Navdeep-Codes)
 
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,aws)](https://github.com/Navdeep-Codes)
