@@ -17,11 +17,12 @@
 <br>
 <div>
 [![My Skills](https://skillicons.dev/icons?i=jshtml,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/Navdeep-Codes)
-<br>
+</div>
+
 # Tools I use
 <br>
+<div>
 [![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/Navdeep-Codes)
-
 </div>
 
 <picture>
