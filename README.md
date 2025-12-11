@@ -15,16 +15,12 @@
 [![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)](https://github.com/Navdeep-Codes)
 # Skills 
 
-<div>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/Navdeep-Codes)
-</div>
 
 # Tools I use
 
-
-<div>
 [![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/Navdeep-Codes)
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
