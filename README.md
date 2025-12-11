@@ -6,26 +6,21 @@
 ### A 12 year old prgrammer from India, that loves to code and make open source projects!
 ### Check out my website at https://navdeep.online and mail me at wsp@navdeep.online
 
-## Stats
+# Stats
 
-##### GitHub Stats
+## GitHub Stats
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navdeep-Codes&theme=tokyonight)](https://github.com/Navdeep-Codes)
-##### Hackatime Stats
+
+## Hackatime Stats
 [![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)](https://github.com/Navdeep-Codes)
-## Skills
+# Skills 
+<br>
 <div>
-
-**My Current Skills** <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs)](https://github.com/Navdeep-Codes)
-
-**I am learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=python,java,)](https://github.com/Navdeep-Codes)
-
-**Stuff I use** <br>
+[![My Skills](https://skillicons.dev/icons?i=jshtml,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/Navdeep-Codes)
+<br>
+# Tools I use
+<br>
 [![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/Navdeep-Codes)
-
-**I want to try:** <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,aws)](https://github.com/Navdeep-Codes)
 
 </div>
 
