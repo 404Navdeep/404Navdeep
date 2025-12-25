@@ -3,7 +3,7 @@
 </div>
 
 ## I'm Navdeep,
-### A 12 year old prgrammer from India, that loves to code and make open source projects!
+### A prgrammer from India, that loves to code and make open source projects!
 ### Check out my website at https://navdeep.online and mail me at wsp@navdeep.online
 
 # Stats
