@@ -2,24 +2,19 @@
   <img style="object-fit: cover; width: 100%; height: 100%;" src="Banner.png" alt="Banner" />
 </div>
 
-## I'm Navdeep,
+# I'm Navdeep,
 ### A prgrammer from India, that loves to code and make open source projects!
-### Check out my website at https://navdeep.online and mail me at wsp@navdeep.online
+### Check out my website at https://navdeep.tech and mail me at wsp@navdeep.tech
 
-# Stats
 
 ## GitHub Stats
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navdeep-Codes&theme=tokyonight)](https://github.com/Navdeep-Codes)
-
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404Navdeep&theme=tokyonight)](https://github.com/404Navdeep)
 ## Hackatime Stats
-[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)](https://github.com/Navdeep-Codes)
-# Skills 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/Navdeep-Codes)
-
-# Tools I use
-
-[![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/Navdeep-Codes)
+[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)](https://hackati.me/404Navdeep)
+## Skills 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/404Navdeep)
+## Tools I use
+[![Tools](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,aws,mongodb)](https://github.com/404Navdeep)
 
 
 <picture>
