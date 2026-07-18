@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"html/template"
+	"io"
 	"log"
 	"net/http"
 	"os"
@@ -66,6 +67,46 @@ type ReadmeParams struct {
 	YesterdayDate string
 }
 
+func fetchLatestPushEvent(client *http.Client, apiBaseURL, username, token string) (string, string, error) {
+	url := strings.TrimRight(apiBaseURL, "/") + "/users/" + username + "/events/public"
+	req, err := http.NewRequest(http.MethodGet, url, nil)
+	if err != nil {
+		return "", "", err
+	}
+
+	req.Header.Set("Accept", "application/vnd.github+json")
+	req.Header.Set("X-GitHub-Api-Version", "2022-11-28")
+	if token != "" {
+		req.Header.Set("Authorization", "Bearer "+token)
+	}
+
+	resp, err := client.Do(req)
+	if err != nil {
+		return "", "", err
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(io.LimitReader(resp.Body, 512))
+		return "", "", fmt.Errorf("github events API returned %d: %s", resp.StatusCode, strings.TrimSpace(string(body)))
+	}
+
+	var events []GitHubEvent
+	if err := json.NewDecoder(resp.Body).Decode(&events); err != nil {
+		return "", "", err
+	}
+
+	for _, event := range events {
+		if event.Type == "PushEvent" && len(event.Payload.Head) >= 7 {
+			lastRepo := event.Repo.Name
+			lastCommit := fmt.Sprintf("[%s](https://github.com/%s/commit/%s)", event.Payload.Head[:7], event.Repo.Name, event.Payload.Head)
+			return lastRepo, lastCommit, nil
+		}
+	}
+
+	return "", "", fmt.Errorf("no push event found")
+}
+
 func main() {
 
 	var params = ReadmeParams{}
@@ -83,25 +124,22 @@ func main() {
 	var slackID = os.Getenv("SLACK_ID")
 	var githubUsername = os.Getenv("GITHUB_USERNAME")
 
-	// fetch github data
+	params.LastRepo = os.Getenv("GITHUB_REPOSITORY")
+	if params.LastRepo == "" {
+		params.LastRepo = githubUsername
+	}
 
-	respGitHub, err := http.Get("https://api.github.com/users/" + githubUsername + "/events/public")
+	sha := os.Getenv("GITHUB_SHA")
+	if len(sha) >= 7 {
+		params.LastCommit = fmt.Sprintf("[%s](https://github.com/%s/commit/%s)", sha[:7], params.LastRepo, sha)
+	}
+
+	lastRepo, lastCommit, err := fetchLatestPushEvent(http.DefaultClient, "https://api.github.com", githubUsername, os.Getenv("GITHUB_TOKEN"))
 	if err != nil {
-		log.Fatal(err)
-	}
-	defer respGitHub.Body.Close()
-
-	var events []GitHubEvent
-	if err := json.NewDecoder(respGitHub.Body).Decode(&events); err != nil {
-		log.Fatal(err)
-	}
-
-	for _, event := range events {
-		if event.Type == "PushEvent" {
-			params.LastRepo = event.Repo.Name
-			params.LastCommit = fmt.Sprintf("[%s](https://github.com/%s/commit/%s)", event.Payload.Head[:7], event.Repo.Name, event.Payload.Head)
-			break
-		}
+		log.Printf("could not fetch latest GitHub push event, using fallback values: %v", err)
+	} else {
+		params.LastRepo = lastRepo
+		params.LastCommit = lastCommit
 	}
 
 	// fetch hackatime data for yesterday
