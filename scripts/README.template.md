@@ -38,4 +38,4 @@ random stats (all time data): \
 
 
 
-_this was updated on {{.UpdatedDate}} at {{.UpdatedIST}} IST / {{.UpdatedUTC}} UTC_
+_this was updated on {{.UpdatedDate}} at {{.UpdatedIST}} IST / {{.UpdatedUTC}} UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
