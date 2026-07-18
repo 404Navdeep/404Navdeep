@@ -4,13 +4,35 @@
 
 # I'm Navdeep,
 ### A prgrammer from India, that loves to code and make open source projects!
-### Check out my website at https://navdeep.tech and mail me at wsp@navdeep.tech
+### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
+
+
+the last repo i worked on was 404Navdeep/404Navdeep and my last commit was [06bebe9](https://github.com/404Navdeep/404Navdeep/commit/06bebe93d1207b4c41a155fd625ee3513f8fb1b9) \
+\
+yesterday, i spent 28min coding! \
+\
+random stats (all time data): \
+\
+-°-
+```
+↳ JavaScript [████████████████████] 114h
+↳ HTML       [█████░░░░░░░░░░░░░░░] 26h
+↳ TypeScript [███░░░░░░░░░░░░░░░░░] 19h
+↳ JSON       [██░░░░░░░░░░░░░░░░░░] 12h
+↳ Shell      [██░░░░░░░░░░░░░░░░░░] 10h
+↳ Other      [██░░░░░░░░░░░░░░░░░░] 10h
+↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 8h
+↳ Markdown   [█░░░░░░░░░░░░░░░░░░░] 7h
+↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 1h
+↳ Other      [░░░░░░░░░░░░░░░░░░░░] 0h
+```
+-°-
 
 
 ## GitHub Stats
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404Navdeep&theme=tokyonight)](https://github.com/404Navdeep)
 ## Hackatime Stats
-[![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)](https://hackati.me/404Navdeep)
+[![Hackatime Stats](https://heatmap.shymike.dev/?id=421&timezone=Asia/Kolkata)](https://hackati.me/404Navdeep)
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,nodejs,react,nextjs,python,rust,rails)](https://github.com/404Navdeep)
 ## Tools I use
@@ -22,3 +44,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
+_this was updated on 18 Jul 2026 at 13:16 IST / 07:46 UTC_
