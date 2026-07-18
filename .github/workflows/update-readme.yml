@@ -1,0 +1,43 @@
+name: Update README.md!!
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+env:
+  SLACK_ID: "U083T3ZP6AV"
+  GITHUB_USERNAME: "404Navdeep"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: download gooo :)
+        uses: actions/setup-go@v6
+        with:
+          go-version: "1.25.4"
+          cache-dependency-path: scripts/go.sum
+
+      - name: install the shiny packages
+        run: cd scripts && go mod tidy && go install
+
+      - name: running the script...
+        run: cd scripts && go run update-readme.go
+
+      - name: committing!
+        run: |
+          git config --global user.name "404Navdeep"
+          git config --global user.email "404navdeep@gmail.com"
+          git add README.md
+          git commit -m "daily readme update" || echo "No changes to commit"
+          git push
