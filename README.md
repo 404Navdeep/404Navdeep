@@ -7,7 +7,7 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/404Navdeep and my last commit was [9ac8b74](https://github.com/404Navdeep/404Navdeep/commit/9ac8b74bd37384f92ff68dd5948b83215b70d051) \
+the last repo i worked on was 404Navdeep/404Navdeep and my last commit was [bc53cbc](https://github.com/404Navdeep/404Navdeep/commit/bc53cbc5af87ae5d807a4433c985f3264f5093f0) \
 \
 yesterday, i spent 28min coding! \
 \
@@ -40,11 +40,11 @@ random stats (all time data): \
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/404Navdeep/404Navdeep/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/404Navdeep/404Navdeep/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/404Navdeep/404Navdeep/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 
 
-_this was updated on 18 Jul 2026 at 17:04 IST / 11:34 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 18 Jul 2026 at 17:13 IST / 11:43 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
