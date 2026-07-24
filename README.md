@@ -19,8 +19,8 @@ random stats (all time data): \
 ↳ HTML       [█████░░░░░░░░░░░░░░░] 26h
 ↳ TypeScript [████░░░░░░░░░░░░░░░░] 20h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 12h
-↳ Shell      [██░░░░░░░░░░░░░░░░░░] 10h
 ↳ Other      [██░░░░░░░░░░░░░░░░░░] 10h
+↳ Shell      [██░░░░░░░░░░░░░░░░░░] 10h
 ↳ Markdown   [█░░░░░░░░░░░░░░░░░░░] 8h
 ↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 8h
 ↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 1h
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 24 Jul 2026 at 16:56 IST / 11:26 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 24 Jul 2026 at 18:34 IST / 13:04 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
