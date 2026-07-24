@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/404Navdeep and my last commit was [39b24b7](https://github.com/404Navdeep/404Navdeep/commit/39b24b713ebba0b46693b3835fa85f96ba95f170) \
 \
-yesterday, i spent 2min coding! \
+yesterday, i spent 11min coding! \
 \
 random stats (all time data): \
 \
@@ -21,8 +21,8 @@ random stats (all time data): \
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 12h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 10h
 ↳ Other      [██░░░░░░░░░░░░░░░░░░] 10h
+↳ Markdown   [█░░░░░░░░░░░░░░░░░░░] 8h
 ↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 8h
-↳ Markdown   [█░░░░░░░░░░░░░░░░░░░] 7h
 ↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 1h
 ↳ Other      [░░░░░░░░░░░░░░░░░░░░] 0h
 ```
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 24 Jul 2026 at 12:48 IST / 07:18 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 24 Jul 2026 at 15:10 IST / 09:40 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
