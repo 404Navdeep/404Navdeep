@@ -7,7 +7,7 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/pulse and my last commit was [9dae5c9](https://github.com/404Navdeep/pulse/commit/9dae5c9af5f1763633cf98f42f086d719ab3a3d4) \
+the last repo i worked on was 404Navdeep/hc-auth and my last commit was [8c4205e](https://github.com/404Navdeep/hc-auth/commit/8c4205ec142c04f779756c7ba3af2b622366f9ad) \
 \
 yesterday, i spent 0s coding! \
 \
@@ -38,4 +38,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 07 Aug 2026 at 20:10 IST / 14:40 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 07 Aug 2026 at 21:07 IST / 15:37 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
