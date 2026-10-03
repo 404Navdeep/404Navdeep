@@ -7,7 +7,7 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/make-transparent and my last commit was [7dd72a3](https://github.com/404Navdeep/make-transparent/commit/7dd72a311862df78a2e981f18886f974fcdef40d) \
+the last repo i worked on was 404Navdeep/porty and my last commit was [100fb4e](https://github.com/404Navdeep/porty/commit/100fb4e9732b52bcbdc61c79a87e92d12829ebce) \
 \
 yesterday, i spent 0s coding! \
 \
@@ -38,4 +38,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 03 Oct 2026 at 20:59 IST / 15:29 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 03 Oct 2026 at 01:54 IST / 20:24 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
