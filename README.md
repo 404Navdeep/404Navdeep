@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/porty and my last commit was [a7b26b9](https://github.com/404Navdeep/porty/commit/a7b26b9f5badf048432dd030770ad7e0245dfa91) \
 \
-yesterday, i spent 0s coding! \
+yesterday, i spent 1h37 coding! \
 \
 random stats (all time data): \
 \
@@ -21,10 +21,10 @@ random stats (all time data): \
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 16h
 ↳ Other      [██░░░░░░░░░░░░░░░░░░] 13h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 13h
-↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 11h
+↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 12h
 ↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 10h
+↳ Python     [░░░░░░░░░░░░░░░░░░░░] 2h
 ↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 2h
-↳ Ruby       [░░░░░░░░░░░░░░░░░░░░] 2h
 ```
 -°-
 
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 02 Nov 2026 at 19:51 IST / 14:21 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 03 Nov 2026 at 05:44 IST / 00:14 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
