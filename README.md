@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/porty and my last commit was [a7b26b9](https://github.com/404Navdeep/porty/commit/a7b26b9f5badf048432dd030770ad7e0245dfa91) \
 \
-yesterday, i spent 2h08 coding! \
+yesterday, i spent 57min coding! \
 \
 random stats (all time data): \
 \
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 03 Nov 2026 at 04:13 IST / 22:43 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 04 Nov 2026 at 09:40 IST / 04:10 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
