@@ -23,8 +23,8 @@ random stats (all time data): \
 ↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 14h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 13h
 ↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 10h
+↳ Go         [█░░░░░░░░░░░░░░░░░░░] 4h
 ↳ Python     [█░░░░░░░░░░░░░░░░░░░] 4h
-↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 2h
 ```
 -°-
 
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 10 Nov 2026 at 06:30 IST / 01:00 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 10 Nov 2026 at 19:31 IST / 14:01 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
