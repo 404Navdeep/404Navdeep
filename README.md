@@ -7,9 +7,9 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/pulse and my last commit was [b26fd26](https://github.com/404Navdeep/pulse/commit/b26fd26093927625ec0e55938d567973039ac6cb) \
+the last repo i worked on was 404Navdeep/pulse and my last commit was [a731ead](https://github.com/404Navdeep/pulse/commit/a731eadfe4b111e356a0777346645fc257878f5f) \
 \
-yesterday, i spent 1h20 coding! \
+yesterday, i spent 3h59 coding! \
 \
 random stats (all time data): \
 \
@@ -19,9 +19,9 @@ random stats (all time data): \
 ↳ HTML       [████░░░░░░░░░░░░░░░░] 29h
 ↳ TypeScript [████░░░░░░░░░░░░░░░░] 29h
 ↳ JSON       [██░░░░░░░░░░░░░░░░░░] 16h
-↳ Other      [██░░░░░░░░░░░░░░░░░░] 14h
+↳ Other      [██░░░░░░░░░░░░░░░░░░] 15h
+↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 14h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 13h
-↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 13h
 ↳ CSS        [█░░░░░░░░░░░░░░░░░░░] 10h
 ↳ Python     [█░░░░░░░░░░░░░░░░░░░] 4h
 ↳ YAML       [░░░░░░░░░░░░░░░░░░░░] 2h
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 09 Nov 2026 at 20:18 IST / 14:48 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 10 Nov 2026 at 06:30 IST / 01:00 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
