@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/pulse and my last commit was [a731ead](https://github.com/404Navdeep/pulse/commit/a731eadfe4b111e356a0777346645fc257878f5f) \
 \
-yesterday, i spent 6h50 coding! \
+yesterday, i spent 6h51 coding! \
 \
 random stats (all time data): \
 \
@@ -18,8 +18,8 @@ random stats (all time data): \
 ↳ JavaScript [████████████████████] 140h
 ↳ TypeScript [█████░░░░░░░░░░░░░░░] 34h
 ↳ HTML       [████░░░░░░░░░░░░░░░░] 29h
-↳ JSON       [██░░░░░░░░░░░░░░░░░░] 16h
 ↳ Other      [██░░░░░░░░░░░░░░░░░░] 16h
+↳ JSON       [██░░░░░░░░░░░░░░░░░░] 16h
 ↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 15h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 13h
 ↳ Go         [██░░░░░░░░░░░░░░░░░░] 13h
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 12 Nov 2026 at 10:36 IST / 05:06 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 12 Nov 2026 at 19:51 IST / 14:21 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
