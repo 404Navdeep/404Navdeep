@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/pulse and my last commit was [a731ead](https://github.com/404Navdeep/pulse/commit/a731eadfe4b111e356a0777346645fc257878f5f) \
 \
-yesterday, i spent 8h32 coding! \
+yesterday, i spent 6h50 coding! \
 \
 random stats (all time data): \
 \
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 11 Nov 2026 at 05:23 IST / 23:53 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 12 Nov 2026 at 10:36 IST / 05:06 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
