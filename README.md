@@ -7,7 +7,7 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/cheddar and my last commit was [02cf11c](https://github.com/404Navdeep/cheddar/commit/02cf11c358f1c869c0612f182c5cf68f84ce0c26) \
+the last repo i worked on was 404Navdeep/hc-dns and my last commit was [02fcde1](https://github.com/404Navdeep/hc-dns/commit/02fcde1db0a7322348a6871b2cbc57c691c17900) \
 \
 yesterday, i spent 3h40 coding! \
 \
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 15 Nov 2026 at 18:44 IST / 13:14 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 15 Nov 2026 at 03:49 IST / 22:19 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
