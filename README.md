@@ -7,9 +7,9 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/cheddar and my last commit was [f73acf5](https://github.com/404Navdeep/cheddar/commit/f73acf582597575eb04b83aea359eabdf873d084) \
+the last repo i worked on was 404Navdeep/cheddar and my last commit was [6da0120](https://github.com/404Navdeep/cheddar/commit/6da0120ba5286f0b533f84c653aa1a8a25b27449) \
 \
-yesterday, i spent 1h55 coding! \
+yesterday, i spent 1h46 coding! \
 \
 random stats (all time data): \
 \
@@ -17,14 +17,14 @@ random stats (all time data): \
 ```
 ↳ JavaScript [████████████████████] 140h
 ↳ TypeScript [██████░░░░░░░░░░░░░░] 42h
-↳ HTML       [████░░░░░░░░░░░░░░░░] 29h
+↳ HTML       [████░░░░░░░░░░░░░░░░] 30h
 ↳ Other      [███░░░░░░░░░░░░░░░░░] 18h
-↳ Markdown   [██░░░░░░░░░░░░░░░░░░] 17h
-↳ JSON       [██░░░░░░░░░░░░░░░░░░] 16h
-↳ Go         [██░░░░░░░░░░░░░░░░░░] 16h
+↳ Markdown   [███░░░░░░░░░░░░░░░░░] 18h
+↳ Go         [██░░░░░░░░░░░░░░░░░░] 17h
+↳ JSON       [██░░░░░░░░░░░░░░░░░░] 17h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 14h
 ↳ CSS        [██░░░░░░░░░░░░░░░░░░] 11h
-↳ Python     [█░░░░░░░░░░░░░░░░░░░] 6h
+↳ Python     [█░░░░░░░░░░░░░░░░░░░] 7h
 ```
 -°-
 
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 16 Nov 2026 at 19:53 IST / 14:23 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 17 Nov 2026 at 06:51 IST / 01:21 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
