@@ -9,7 +9,7 @@
 
 the last repo i worked on was 404Navdeep/cheddar and my last commit was [6da0120](https://github.com/404Navdeep/cheddar/commit/6da0120ba5286f0b533f84c653aa1a8a25b27449) \
 \
-yesterday, i spent 1h46 coding! \
+yesterday, i spent 0s coding! \
 \
 random stats (all time data): \
 \
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 17 Nov 2026 at 20:46 IST / 15:16 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 18 Nov 2026 at 05:47 IST / 00:17 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
