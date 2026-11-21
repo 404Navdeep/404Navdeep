@@ -7,7 +7,7 @@
 ### Check out my website at https://navdeep.tech and mail me at 404navdeep@gmail.com
 
 
-the last repo i worked on was 404Navdeep/cheddar and my last commit was [0ea6efd](https://github.com/404Navdeep/cheddar/commit/0ea6efdcbf6b68736b7971dac547901ce8b9002e) \
+the last repo i worked on was 404Navdeep/make-transparent and my last commit was [f7f08bf](https://github.com/404Navdeep/make-transparent/commit/f7f08bf14f6bca33cb48bb944ae7fe37f1919f00) \
 \
 yesterday, i spent 39min coding! \
 \
@@ -20,7 +20,7 @@ random stats (all time data): \
 ↳ HTML       [████░░░░░░░░░░░░░░░░] 30h
 ↳ Other      [███░░░░░░░░░░░░░░░░░] 19h
 ↳ Markdown   [███░░░░░░░░░░░░░░░░░] 18h
-↳ JSON       [██░░░░░░░░░░░░░░░░░░] 17h
+↳ JSON       [███░░░░░░░░░░░░░░░░░] 18h
 ↳ Go         [██░░░░░░░░░░░░░░░░░░] 17h
 ↳ Shell      [██░░░░░░░░░░░░░░░░░░] 14h
 ↳ CSS        [██░░░░░░░░░░░░░░░░░░] 11h
@@ -47,4 +47,4 @@ random stats (all time data): \
 
 
 
-_this was updated on 21 Nov 2026 at 10:28 IST / 04:58 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
+_this was updated on 21 Nov 2026 at 19:27 IST / 13:57 UTC_ [![Update README.md!!](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/404Navdeep/404Navdeep/actions/workflows/update-readme.yml)
